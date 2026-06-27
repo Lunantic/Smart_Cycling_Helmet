@@ -264,7 +264,7 @@ This project is open sourced under the **MIT License**. See [LICENSE](LICENSE) f
 ## 👤 作者 / Author
 
 - **作者**: Lunantic
-- **GitHub**: [Your GitHub URL]
+- **GitHub**: https://github.com/Lunantic/symmetrical-giggle
 - **日期**: 2025
 
 ---
