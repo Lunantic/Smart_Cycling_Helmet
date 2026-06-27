@@ -264,7 +264,7 @@ This project is open sourced under the **MIT License**. See [LICENSE](LICENSE) f
 ## 👤 作者 / Author
 
 - **作者**: Lunantic
-- **GitHub**: https://github.com/Lunantic/symmetrical-giggle
+- **GitHub**: https://github.com/Lunantic/Smart_Cycling_Helmet
 - **日期**: 2025
 
 ---
