@@ -1,0 +1,10 @@
+# 智能头盔检测系统 - Python 依赖
+# ==================================
+# 核心依赖（WiFi TCP 通信为主要模式，使用 Python 标准库 socket，无需额外安装）
+
+PyQt5>=5.15.0           # GUI 框架
+PyQtWebEngine>=5.15.0   # Qt WebEngine（嵌入 Chromium 渲染 Leaflet 地图）
+pyqtgraph>=0.12.0       # 高性能实时绘图（速度曲线）
+
+# 可选依赖（如需串口通信模式，请安装 pyserial）
+# pyserial>=3.5         # 串口通信库（UART/RS-232，仅串口模式需要）
